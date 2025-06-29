@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="xvx4AbM4uloTdp_dUsA6">
-    <mxGraphModel>
+    <mxGraphModel dx="1489" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GmjAItTiiAMY3_y_7m7S-1" target="GmjAItTiiAMY3_y_7m7S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GmjAItTiiAMY3_y_7m7S-1" target="GmjAItTiiAMY3_y_7m7S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GmjAItTiiAMY3_y_7m7S-1" target="GmjAItTiiAMY3_y_7m7S-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GmjAItTiiAMY3_y_7m7S-1" target="GmjAItTiiAMY3_y_7m7S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-1" value="Network edge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-2" value="Mobile" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-4" value="Tablet" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-7" value="Computers" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
+          <mxGeometry x="385" y="320" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-9" value="Servers" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="317.5" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-10" value="IOT" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="650" y="326.25" width="60" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GmjAItTiiAMY3_y_7m7S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.3;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GmjAItTiiAMY3_y_7m7S-1" target="GmjAItTiiAMY3_y_7m7S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
